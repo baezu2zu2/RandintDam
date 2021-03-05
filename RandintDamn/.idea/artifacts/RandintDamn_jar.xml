@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandintDamn:jar">
+    <output-path>$USER_HOME$/Desktop/mcplugin/plugins</output-path>
+    <root id="archive" name="RandintDamn.jar">
+      <element id="module-output" name="RandintDamn" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/monsterking/spigot-api-1.16.5-R0.1-20210212.234030-19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
